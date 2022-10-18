@@ -1,0 +1,1 @@
+document.body.innerHTML = '<H1>Привет от JavaScript</H1>'
